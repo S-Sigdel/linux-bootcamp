@@ -8,6 +8,8 @@
 ## Learning the vim basics
 - [Playlist by ThePrimeagen on vim basics](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R)
 
+## vimtutor
+- A handy command line vim instructor. Just type `vimtutor` in your terminal, and you should be ready to take on the lessons.
 
 ## Cheatsheet
 - Vim Cheatsheet: https://gist.github.com/tuxfight3r/0dca25825d9f2608714b
